@@ -1,0 +1,41 @@
+.item {
+  font-size: 3rem;
+  list-style-type: none;
+  padding: 14px 25px;
+  border-bottom: 1px solid #fff;
+  background: #f0efef;
+  font-family: "Brush Script MT", Cursive;
+}
+.content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+.content span {
+  flex: 1;
+  order: 1;
+}
+.content button {
+  cursor: pointer;
+  background: transparent;
+  order: 2;
+  outline: none;
+  outline: none;
+  border: none;
+  margin-left: 7px;
+}
+.textInput {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #dfdfdf;
+  outline: none;
+}
+.move:hover {
+  color: white;
+  background-image: radial-gradient(red, yellow);
+  padding: 10px;
+}
+.itemmove:hover {
+  text-shadow: 0 0 5px #15e80a;
+}

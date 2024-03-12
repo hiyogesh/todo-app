@@ -1,0 +1,9 @@
+.header {
+  font-family: "Brush Script MT", Cursive;
+  font-size: 5rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  line-height: 1em;
+  text-shadow: 0 0 5px #ff0000;
+  text-align: center;
+}
